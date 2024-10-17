@@ -23,13 +23,3 @@
       <button onclick="upvote('score-a')">Upvote</button>
     </td>
   </tr>
-  <!-- Add more rows for other models here -->
-</table>
-
-<script>
-  function upvote(id) {
-    var score = document.getElementById(id);
-    var currentScore = parseInt(score.innerText);
-    score.innerText = currentScore + 1;
-  }
-</script>
