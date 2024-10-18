@@ -11,11 +11,11 @@
     <th>Upvote Score</th>
   </tr>
   <tr>
-    <td>Model A</td>
+    <td>Fish-Speech-1</td>
     <td><audio controls><source src="audio-link-a-small.mp3" type="audio/mpeg"></audio></td>
     <td><audio controls><source src="audio-link-a-small-eng.mp3" type="audio/mpeg"></audio></td>
     <td><audio controls><source src="audio-link-a-large.mp3" type="audio/mpeg"></audio></td>
-    <td><audio controls><source src="audio-link-a-large-eng.mp3" type="audio/mpeg"></audio></td>
+    <td><audio controls><source src="assets/fish1-speech/fish-speech1-total.wav" type="audio/wav"></audio></td>
     <td><audio controls><source src="audio-link-a-tashkeel.mp3" type="audio/mpeg"></audio></td>
     <td><audio controls><source src="audio-link-a-no-tashkeel.mp3" type="audio/mpeg"></audio></td>
     <td>
