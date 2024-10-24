@@ -31,3 +31,5 @@
 
 ## Datasets 
 * https://huggingface.co/datasets/MBZUAI/ClArTTS
+
+* https://fi.shaip.com/offerings/speech-data-catalog/arabic-dataset/
