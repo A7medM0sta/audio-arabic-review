@@ -33,3 +33,6 @@
 * https://huggingface.co/datasets/MBZUAI/ClArTTS
 
 * https://fi.shaip.com/offerings/speech-data-catalog/arabic-dataset/
+
+* ghttps://live.european-language-grid.eu/catalogue/tool-service/9390/download%2Frun/
+
